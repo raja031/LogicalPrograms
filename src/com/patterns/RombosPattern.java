@@ -1,5 +1,26 @@
 package com.patterns;
 
+/**
+ * 
+ * @author rajag
+ *
+ *                        
+        @       @         
+      @   @   @   @       
+    @       @       @     
+  @           @       @   
+@       @       @       @ 
+  @   @   @   @       @   
+    @       @       @     
+  @       @   @   @   @   
+@       @       @       @ 
+  @       @           @   
+    @       @       @     
+      @   @   @   @       
+        @       @         
+
+ *
+ */
 public class RombosPattern {
 	public static void main(String[] args) {
 		printPattern(4);
